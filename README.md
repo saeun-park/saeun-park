@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 
 <!-- Top Language -->
 
-### 🚌 Top Langs
+<!-- ### 🚌 Top Langs
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saeun-park&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saeun-park&layout=compact) -->
