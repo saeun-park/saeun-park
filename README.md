@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- 방문자수 -->
-
-[![Hits](https://hits.sh/github.com/saeun-park.svg)](https://hits.sh/github.com/saeun-park/)
+<!-- [![Hits](https://hits.sh/github.com/saeun-park.svg)](https://hits.sh/github.com/saeun-park/) -->
 
 ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaeun-park&edge_flat=false&title=hits)
 
