@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- 방문자수 -->
+
+[![Hits](https://hits.sh/github.com/saeun-park.svg)](https://hits.sh/github.com/saeun-park/)
+
+<!-- 알고리즘 랭킹 -->
+<!-- [![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={"백준아이디 넣기"})](https://solved.ac/{handle}) -->
