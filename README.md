@@ -2,8 +2,6 @@
 
 안녕
 
-![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaeun-park&edge_flat=false&title=hits)
-
 <!--
 **saeun-park/saeun-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
