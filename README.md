@@ -20,12 +20,7 @@
 
 
 #### 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,r,java,mysql,html,css,js)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=vue,sklearn,notion,figma,github,git)](https://skillicons.dev)
-
----
-
-
+[![My Skills](https://skillicons.dev/icons?i=py,r,java,mysql,html,css,js,vue,sklearn,notion,figma,github,git)](https://skillicons.dev)
 
 
 ---
