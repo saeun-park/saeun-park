@@ -9,7 +9,7 @@
 --- 
 ### 🚧 In Progress
 - [x] **KB국민은행 It’s Your Life** 프로그램 참여 중 [바로가기](https://github.com/saeun-park/KB.git)
-- [x] **Vue.js 기반 온라인 가계부 프로젝트** 개발 [바로가기](https://github.com/SuccessInnovation/AccountBook.git)
+- [x] **Vue.js 기반 온라인 가계부 프로젝트** 개발 v1.0.0 완료 [바로가기](https://github.com/SuccessInnovation/AccountBook.git)
 - [x] 정보처리기사 자격증 준비  
 ---
 
