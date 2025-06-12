@@ -37,11 +37,3 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saeun-park&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saeun-park" />
-  </a>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=saeun-park&color=blue&style=flat-square" />
-</p>
-
