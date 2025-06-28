@@ -29,7 +29,7 @@
 
 
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,sklearn,r,mysql,java,html,css,js,vue,notion,figma,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,sklearn,r,mysql,java,html,css,js,vue,notion,figma,github)](https://skillicons.dev)
 
 ---
 
