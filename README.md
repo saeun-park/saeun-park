@@ -15,7 +15,6 @@
 
 ### Contact Me
 - Email : [saeunnpark@gmail.com](mailto:saeunnpark@gmail.com)
-- Blog : https://ajsklaoao.tistory.com
 
 
 ### About Me
