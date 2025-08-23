@@ -1,18 +1,5 @@
 # Saeun Park | Data & Digital Finance  
-
-안녕하세요. 박사은의 GitHub에 오신 것을 환영합니다.  
-<br/>
-데이터를 통해 문제를 해결하고, 이를 바탕으로 실질적인 인사이트를 도출하는 과정에 흥미를 느낍니다.  
-특히 금융 데이터와 IT 기술의 융합에 관심이 많으며, 금융권뿐 아니라 고객과 사용자 데이터를 분석해 소비자의 니즈를 이해합니다.  
-이를 바탕으로 사용자 중심의 디지털 금융 서비스를 설계하고 구현하고자 합니다.
-
 --- 
-### 🚧 In Progress
-- [x] **KB국민은행 It’s Your Life** 프로그램 참여 중 [바로가기](https://github.com/saeun-park/KB.git)
-- [x] **Vue.js 기반 온라인 가계부 프로젝트** 개발 v1.0.0 완료 [바로가기](https://github.com/SuccessInnovation/AccountBook.git)
-- [x] 정보처리기사 자격증 준비  
----
-
 ### Contact Me
 - Email : [saeunnpark@gmail.com](mailto:saeunnpark@gmail.com)
 
