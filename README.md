@@ -11,7 +11,7 @@
   - **RAG 기반 챗봇 학습**을 위한 **기계가독형 데이터 변환** 및 **큐레이션 역할** 담당
   - **YOLO v5 기반 표 인식** 및 **셀 단위 라벨링**, **문서 구조 분석**을 통한 **AI 학습 데이터셋 구축 참여**  
 - 이론통계 및 경영정보 학부연구생 `2022.09 ~ 2023.02`  
-- **시니어 맞춤형 노후 설계 플랫폼 ["노후도락"](https://github.com/jejugom) FE 개발** `2025.07 ~ 2025.08`  
+- **시니어 맞춤형 노후 설계 플랫폼 [노후도락](https://github.com/jejugom) FE 개발** `2025.07 ~ 2025.08`  
 
 ### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,sklearn,r,mysql,java,html,css,js,vue,notion,figma,github)](https://skillicons.dev)
