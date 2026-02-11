@@ -10,7 +10,7 @@ Email : [saeunnpark@gmail.com](mailto:saeunnpark@gmail.com)
 - 2024.08 - 2025.02 헝가리 ELTE 대학 통계학·컴퓨터공학 이수
 
 ### Work Experience
-- **Toss Vision Assistant** `2025.09 ~ 2025.12`
+- **Toss Vision Service** Assistant `2025.09 ~ 2025.12`
   - Python 기반 이미지 크롤링·전처리 자동화 및 라벨링 플랫폼 업로드 파이프라인 구축
   - 위조 신분증 탐지를 위한 보안 취약점 분석 및 모델 고도화 개선안 제시
   - Android Studio 환경에서 TFLite 모델 검증 앱 개발 및 온디바이스 성능 테스트 수행
