@@ -1,6 +1,6 @@
 # Saeun Park
 
-### Contact Me
+### Contact
 Email : [saeunnpark@gmail.com](mailto:saeunnpark@gmail.com)
 
 
