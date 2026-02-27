@@ -1,4 +1,4 @@
-# 박사은 Saeun Park
+# Saeun Park
 
 ### Contact
 Email : [saeunnpark@gmail.com](mailto:saeunnpark@gmail.com)
