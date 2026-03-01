@@ -6,7 +6,7 @@ Email : [saeunnpark@gmail.com](mailto:saeunnpark@gmail.com)
 
 ### Education
 - 2020.03 - 2026.02 인하대학교 경영학·통계학 졸업 **(GPA 4.04/4.5)**
-- 2025.03 - 2025.08 KB 국민은행 풀스택 개발 부트캠프 수료
+- 2025.03 - 2025.08 KB 국민은행 IT's Your Life 6기 수료
 - 2024.08 - 2025.02 헝가리 ELTE 대학 통계학·컴퓨터공학 이수
 
 ### Work Experience
