@@ -5,11 +5,6 @@
 Email : [saeunnpark@gmail.com](mailto:saeunnpark@gmail.com)
 
 
-### Education
-- 2020.03 - 2026.02 인하대학교 경영학·통계학 졸업 **(GPA 4.04/4.5)**
-- 2025.03 - 2025.08 KB 국민은행 IT's Your Life 6기 수료
-- 2024.08 - 2025.02 헝가리 ELTE 대학 통계학·컴퓨터공학 이수
-
 ### Work Experience
 - **Toss Vision Service** Assistant `2025.09 ~ 2025.12`
   - Python 기반 이미지 크롤링·전처리 자동화 및 라벨링 플랫폼 업로드 파이프라인 구축
